@@ -1,0 +1,125 @@
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.AssemblyReference.cache
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormMain.resources
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.CoreCompileInputs.cache
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormDobAuto.resources
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormDobOperator.resources
+E:\Dowload\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormDobCategory.resources
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.AssemblyReference.cache
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.CoreCompileInputs.cache
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormMain.resources
+E:\Dowload\Курсовой проект 3 курс 5 семестр\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csprojAssemblyReference.cache
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormMain.resources
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр с поиском\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.AssemblyReference.cache
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.CoreCompileInputs.cache
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр c Главной формой\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.GodVipuskaCmb.resources
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csprojAssemblyReference.cache
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.GodVipuskaCmb.resources
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр c\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.AssemblyReference.cache
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.GodVipuskaCmb.resources
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.CoreCompileInputs.cache
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр без отчетов\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormOtcheti.resources
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csprojAssemblyReference.cache
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormOtcheti.resources
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+S:\Курсовой проект 3 курс 5 семестр c отчетами\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Main.resources
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.AssemblyReference.cache
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormOtcheti.resources
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.CoreCompileInputs.cache
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Курсовой проект 3 курс 5 семестр готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormMain.resources
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csprojAssemblyReference.cache
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormMain.resources
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormOtcheti.resources
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр точно готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csprojAssemblyReference.cache
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormMain.resources
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormOtcheti.resources
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+S:\Курсовой проект 3 курс 5 семестр наверника готовая\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe.config
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\bin\Debug\Levanov_KP_RKIS_19ISP.pdb
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.AssemblyReference.cache
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormMain.resources
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormOtcheti.resources
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.FormSprav.resources
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.Properties.Resources.resources
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.GenerateResource.cache
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.csproj.CoreCompileInputs.cache
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.exe
+E:\Dowload\Курсовой проект 3 курс 5 семестр готовая полностью\Levanov_KP_RKIS_19ISP\Levanov_KP_RKIS_19ISP\obj\Debug\Levanov_KP_RKIS_19ISP.pdb
